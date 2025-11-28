@@ -53,6 +53,15 @@ plot(fw2);
 
 <img width="1890" height="1054" alt="image" src="https://github.com/user-attachments/assets/11052f21-23f5-43b6-9bc1-919137cba0a9" />
 
+<img width="908" height="1280" alt="image" src="https://github.com/user-attachments/assets/418c0fb3-199f-4773-af38-88789ff2c875" />
+
+<img width="863" height="1280" alt="image" src="https://github.com/user-attachments/assets/42aab2c0-d327-43b9-b601-d329bf89963c" />
+
+
+
+
+
+
 
 
 ## RESULT
